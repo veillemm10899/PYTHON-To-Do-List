@@ -15,4 +15,4 @@ A simple To-Do List app built with CustomTkinter and SQLite.
    ```bash
    git clone https://github.com/veillemm10899/ToDo-List-App.git
    cd ToDo-List-App
->>>>>>> cc5214b (Finalizing To-Do List app upload)
+
